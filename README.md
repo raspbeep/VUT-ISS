@@ -1,6 +1,6 @@
 # iss-project
 
-15.5/18
+15.5/18b
 
 1: 1 z 1: wrong min max
 2: 0.5 z 1: no normalization
